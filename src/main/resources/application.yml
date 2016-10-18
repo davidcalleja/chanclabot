@@ -1,0 +1,9 @@
+logging:
+    level:
+        root: INFO
+        org.springframework: INFO
+        org.telegram: DEBUG
+boot:
+  config:
+    name: La chancla
+    description: This is a bot for DronesGO & DDFreestyle chat

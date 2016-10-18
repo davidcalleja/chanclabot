@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "boot.config.name",
+      "type": "java.lang.String",
+      "description": "Name of boot."
+    },
+    {
+      "name": "boot.config.description",
+      "type": "java.lang.String",
+      "description": "Description of boot."
+    }
+  ]
+}
